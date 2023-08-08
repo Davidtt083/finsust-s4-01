@@ -55,7 +55,6 @@ function mostrarp(divNum, btns, lot) {
 	document.getElementById("btn2").classList.remove("activo");
 	document.getElementById("btn3").classList.remove("activo");
 	document.getElementById("btn4").classList.remove("activo");
-	document.getElementById("btn5").classList.remove("activo");
 
 
 
